@@ -1,0 +1,8 @@
+pandas
+tqdm
+playwright
+playwright-stealth
+aiohttp
+selenium
+webdriver_manager
+pandas
